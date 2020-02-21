@@ -5,5 +5,5 @@ Def parrot_method = (parrot,"Squawk!")
 end
 
 parrot = "Squak!"
-  puts parrot 
+  puts parrot
 end
