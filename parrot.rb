@@ -3,3 +3,7 @@
 Def parrot_method = (parrot,"Squawk!")
   puts parrot-method
 end
+
+parrot = "Squak!"
+  puts parrot 
+end
